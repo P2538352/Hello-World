@@ -1,2 +1,3 @@
 # Hello-World
-First Attempt At GitHub Work
+
+First Time using GitHub and making changes and showing new work
